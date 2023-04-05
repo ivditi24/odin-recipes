@@ -1,0 +1,29 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px 40px 100px;
+    padding: 0;
+    background-color: rgb(229, 247, 201);
+}
+
+h1 {
+    color: #333;
+}
+
+figure {
+    max-width: 600px;
+    max-height: 50%;
+    margin: 0;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+}
+
+p {
+    max-width: 600px;
+}
+
+h2 {
+    margin-top: 40px;
+}
